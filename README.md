@@ -28,4 +28,12 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
     </p>
+    
+<summary>
+  More about me
+</summary>
+
+<br >
+
+I have great attraction towards backend technologies and I like to keep myself updated and build more optimized and efficient web applications
 
