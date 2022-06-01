@@ -1,7 +1,8 @@
 ### Hi there 👋
+### I'm Sayed Rafiul Islam, Full Stack Web Developer 💻
 
 <!--
-**Sayed-Rafiul-Islam/Sayed-Rafiul-Islam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
